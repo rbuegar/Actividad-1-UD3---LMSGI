@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<e1:ejemplo xmlns:e1="biblioteca" xmlns:e2="biblioteca">
+
+<libros>
+    <e1:libro>
+        <e1:autor>
+            <e1:apellido1>Buerleigh </e1:apellido1>
+            <e1:apellido2></e1:apellido2>
+            <e1:nombre>Michael </e1:nombre>
+        </e1:autor>
+        <e1:titulo>El Tercer Reich</e1:titulo>
+        <e1:editorial>DEBOLSILLO</e1:editorial>
+        <e1:fechaPublicacion>15/09/2022</e1:fechaPublicacion>
+        <e1:ISBN>9788466360456</e1:ISBN>
+    </e1:libro>
+    <e2:libro>
+        <e2:autor>
+            <e2:apellido1>Hersey</e2:apellido1>
+            <e2:apellido2></e2:apellido2>
+            <e2:nombre>Jhon</e2:nombre>
+        </e2:autor>
+        <e2:titulo>Hiroshima</e2:titulo>
+        <e2:editorial>	Alfred A. Knopf</e2:editorial>
+        <e2:fechaPublicacion>31 de agosto de 1946</e2:fechaPublicacion>
+        <e2:ISBN>9781684116881</e2:ISBN>
+    </e2:libro>
+    <libro>
+        <autor>
+            <apellido1>Frank</apellido1>
+            <apellido2></apellido2>
+            <nombre>Ana</nombre>
+        </autor>
+        <titulo>Diario de Ana Frank</titulo>
+        <editorial>	Contact</editorial>
+        <fechaPublicacion>	1947</fechaPublicacion>
+        <ISBN>9789685146074</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>England</apellido1>
+            <apellido2></apellido2>
+            <nombre>Peter</nombre>
+           
+        </autor>
+        <titulo>Noviembre 1942</titulo>
+        <editorial>DEBATE </editorial>
+        <fechaPublicacion>19/10/2023</fechaPublicacion>
+        <ISBN>9788419399175 </ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Beevor</apellido1>
+            <apellido2></apellido2>
+            <nombre>Antony</nombre>
+           
+        </autor>
+        <titulo>Ardenas 1944</titulo>
+        <editorial>Booket</editorial>
+        <fechaPublicacion>(06/03/2018</fechaPublicacion>
+        <ISBN>9788408181514</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Moutier</apellido1>
+            <apellido2> </apellido2>
+            <nombre>Marie</nombre>
+           
+        </autor>
+        <titulo>Cartas de la Wehmacht</titulo>
+        <editorial>Editorial Crítica</editorial>
+        <fechaPublicacion>15/03/2023</fechaPublicacion>
+        <ISBN>9788491995029</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Atkinson</apellido1>
+            <apellido2></apellido2>
+            <nombre>Rick</nombre>
+        </autor>
+        <titulo>LOs cañones al atardecer</titulo>
+        <editorial>Editorial Crítica</editorial>
+        <fechaPublicacion>03/05/2016</fechaPublicacion>
+        <ISBN>9788498929638</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Gónzalez</apellido1>
+            <apellido2>Alvarez</apellido2>
+            <nombre>Monica </nombre>
+           
+        </autor>
+        <titulo>Noche y niebla en los campos nazis</titulo>
+        <editorial>Espasa </editorial>
+        <fechaPublicacion>26/05/2021</fechaPublicacion>
+        <ISBN>9788467062502</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Greppi </apellido1>
+            <apellido2></apellido2>
+            <nombre>Carlo </nombre>
+            
+        </autor>
+        <titulo>El hombre que salvó a Primo Levi</titulo>
+        <editorial>Editorial Crítica </editorial>
+        <fechaPublicacion>06/09/2023</fechaPublicacion>
+        <ISBN>9788491995685</ISBN>
+    </libro>
+</libros>
+</e1:ejemplo>
